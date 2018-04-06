@@ -12,10 +12,11 @@ Pod::Spec.new do |s|
   s.platform     = :ios
   s.platform     = :ios, "7.0"
   s.source       = { :git => "https://github.com/ioswangpengwei/PWPageControl.git", :tag => s.version.to_s }
-  s.source_files  = "Classes", "Classes/**/*.{h,m}"
-  s.exclude_files = "Classes/Exclude"
+  s.source_files  = "PWPageControl/PWPageControl/PWPageControl/*.{h,m}"
+
+  s.exclude_files = "PWPageControl/PWPageControl/Masonry"
   s.public_header_files = "Classes/**/*.h"
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
-  # s.dependency "Masonry", "~> 1.1.0"
+  s.dependency "Masonry", "~> 1.1.0"
 
 end

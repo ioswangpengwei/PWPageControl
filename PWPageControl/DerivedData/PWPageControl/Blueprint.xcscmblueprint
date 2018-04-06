@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DC6F6B1D7A33CEF51227AC76D7A5264A9998D258",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DC6F6B1D7A33CEF51227AC76D7A5264A9998D258" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "13D16EA5-B43C-4FF3-BEC3-8611261B6E88",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DC6F6B1D7A33CEF51227AC76D7A5264A9998D258" : "PWPageControl\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PWPageControl",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PWPageControl\/PWPageControl.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ioswangpengwei\/PWPageControl.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DC6F6B1D7A33CEF51227AC76D7A5264A9998D258"
+    }
+  ]
+}
