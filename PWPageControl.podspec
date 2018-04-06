@@ -3,7 +3,9 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "PWPageControl. instand UIPageControl"
   s.description  = <<-DESC
-                   use Masonry create PageControl 
+                   PageControl  you can use masony to create 
+                   pageControl .which can  change image size and  image ,the normal  image is not sanme with selete image 
+
                    DESC
 
   s.homepage     = "https://github.com/ioswangpengwei/PWPageControl"
