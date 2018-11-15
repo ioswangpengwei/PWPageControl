@@ -24,7 +24,7 @@
     return self;
 }
 - (void)setSelectedIndex:(NSInteger)index {
-    
+    NSLog(@"test");
     UIImageView *lastSelectImageView = [self viewWithTag:1000+self.currentPage];
     UIImageView *currentImageView = [self viewWithTag:1000+index];
     
